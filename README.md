@@ -1,14 +1,23 @@
-# TSF03-payment--gateway-integration-
-THE SPARKS FOUNDATION
+Payment Gateway Integration
 
-Hi I made this website to integrate payment gateway for The Sparks Foundation Task as Web and Mobile Developer Intern.
+A simple and secure payment gateway integration project that allows users to make online payments through a checkout system. This project demonstrates order creation, payment processing, and payment verification using a test/sandbox payment provider.
 
-PAYMENT GATEWAY INTEGRATION
+🚀 Features
 
+Create payment orders
 
-Create a simple website where payment gateway is integrated. There will be a simple donate button on homepage. On clicking
-The donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g. credit card, Paypal, etc
-Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
-On any page / email, only basic information is needed.
-Create your own temporary / sandbox/testing accounts with 3rd party for integrations.
-Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
+Secure checkout page
+
+Payment success & failure handling
+
+Webhook-based payment verification
+
+Clean UI & easy integration
+
+🛠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Node.js / PHP / Python (whichever you used)
+
+Payment Provider: Razorpay / Stripe / PayPal (replace with yours)
